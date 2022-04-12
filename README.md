@@ -6,7 +6,7 @@ This repository contains all of the relevant files for the project entitled: Des
 The final report can be read with any standard PDF reading software. However, there are a number of other external files that have been included for completeness. These files require specific software to access:
 
 - The files *SolarPanelMotorParams* and *sunPositionData* will both require MATLAB to run. The file *ControlSystemDesign* will not only require MATLAB to be installed, but the extension SIMULINK is also required for this file to run.
-- The files *M1_Calculation* and *M1_Calculation* were made using EduPack Software, and so some version of this software (preferably 2020 or more recent) is required.
+- The files *M1_Calculation* and *M2_Calculation* were made using EduPack Software, and so some version of this software (preferably 2020 or more recent) is required.
 
 
 
