@@ -3,7 +3,7 @@
 This repository contains all of the relevant files for the project entitled: Design for a Specialist Washing Machine for use in Refugee Camps. This project was named as amongst the top 10% of research projects at Queen Mary in 2021, and was nominated to present in front of a panel of expert judges at the Queen Mary Project Showcase.
 
 <p align="center">
-![image](images/washing-machine-image.png)
+  ![image](images/washing-machine-image.png)
 </p>
 
 ## Using this repository
